@@ -1,17 +1,10 @@
+:heavy_exclamation_mark: UPDATE (6/15/2017): _This repository is no longer maintained_. Feel free to fork and modify as you wish.
+
 # WP Advanced Search
-**A PHP framework for building advanced search forms in WordPress**
+#### A PHP framework for building advanced search forms in WordPress
 
-[View Documentation](http://wpadvancedsearch.com/docs/)
+[View Documentation](http://wpadvancedsearch.com/docs/setup)
 
-## Installation
+**Technical Requirements:** PHP version 5.3 or higher, WordPress version 4.1 or higher
 
-1. Create a new directory "wp-advanced-search" within your theme folder.
-
-2. Add the following to your theme's functions.php file:
-
-` require_once('wp-advanced-search/wpas.php'); `
-
-## Usage
-
-See the included demo template under /demo/wp-advanced-search-demo.php for an example of how to create your own forms.
-
+[![Code Climate](https://codeclimate.com/github/raideus/wp-advanced-search/badges/gpa.svg)](https://codeclimate.com/github/raideus/wp-advanced-search)
